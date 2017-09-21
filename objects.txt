@@ -1,0 +1,99 @@
+0
+0
+media/bmps/empty.bmp NULL
+
+A
+0
+media/bmps/wallpaper2.bmp NULL
+
+B
+0
+media/bmps/bathroomwall.bmp NULL
+
+C
+0
+media/bmps/bathroomwash.bmp NULL
+
+D
+0
+media/bmps/graydoorleft.bmp NULL
+
+E
+0
+media/bmps/graydoorright.bmp NULL
+
+F
+0
+media/bmps/flowers.bmp NULL
+
+G
+0
+media/bmps/grass.bmp NULL
+
+H
+0
+media/bmps/graybricks.bmp NULL
+
+I
+0
+media/bmps/graybricks2.bmp NULL
+
+J
+0
+media/bmps/painting.bmp NULL
+
+K
+0
+media/bmps/redbricks3.bmp NULL
+
+L
+0
+media/bmps/toilet.bmp NULL
+
+M
+0
+media/bmps/trashcan.bmp NULL
+
+N
+0
+media/bmps/wallpaper5.bmp NULL
+
+O
+0
+media/bmps/graywindow.bmp NULL
+
+P
+0
+media/bmps/woodfence.bmp NULL
+
+Q
+0
+media/bmps/darkgraybricks2.bmp NULL
+
+R
+0
+media/bmps/sofaleft.bmp NULL
+
+S
+0
+media/bmps/sofaright.bmp NULL
+
+T
+0
+media/bmps/bookcase.bmp NULL
+
+U
+0
+media/bmps/wallpaper3.bmp NULL
+
+V
+0
+media/bmps/wallpaper.bmp NULL
+
+X
+0
+media/bmps/snookerleft.bmp NULL
+
+Y
+0
+media/bmps/snookerright.bmp NULL

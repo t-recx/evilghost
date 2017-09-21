@@ -1,0 +1,43 @@
+1
+0
+media/bmps/bd.bmp NULL
+
+2
+0
+media/bmps/bu.bmp NULL
+
+3
+0
+media/bmps/bl.bmp NULL
+
+4
+0
+media/bmps/br.bmp NULL
+
+5
+0
+media/bmps/bul.bmp NULL
+
+6
+0
+media/bmps/bur.bmp NULL
+
+7
+0
+media/bmps/bdl.bmp NULL
+
+8
+0
+media/bmps/bdr.bmp NULL
+
+9
+0
+media/bmps/budr.bmp NULL
+
+<
+0
+media/bmps/budl.bmp NULL
+
+*
+0
+media/bmps/budlr.bmp NULL

@@ -1,0 +1,36 @@
+0
+0
+media/bmps/empty.bmp NULL
+
+g
+0
+media/bmps/floor.bmp NULL
+
+b
+0
+media/bmps/grass.bmp NULL
+
+a
+0
+media/bmps/ruggreen.bmp NULL
+
+c
+0
+media/bmps/rockfloor.bmp NULL
+
+e
+0
+media/bmps/tilefloor.bmp NULL
+
+f
+0
+media/bmps/woodstair.bmp NULL
+
+d
+0
+media/bmps/floor3.bmp NULL
+
+h
+0
+media/bmps/rugblue.bmp NULL
+
